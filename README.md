@@ -42,4 +42,9 @@ Update your **Package.swift**, add the [Benchmarks](https://github.com/vitali-ku
  - Change directory to your project dir
  - Run `swift run -c release` or `swift run` if you want to measure time in debug mode
 
+
+## Example
+
+You can find an example of benchmarks in [BenchmarksCLI](https://github.com/vitali-kurlovich/Benchmarks/tree/main/BenchmarksCLI)
+
 ![CL](https://vitali-kurlovich.github.io/static-content/benchmarks/benchmarkcl.avif)
