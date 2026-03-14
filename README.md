@@ -3,7 +3,7 @@
 
 The Benchmarks package lets you easily create simple Swift benchmarks to measure the execution time of your code.
 
-This README provides a quick overview of the Benchmarks package. For more detailed information, please [see the documentation](https://vitali-kurlovich.github.io/Benchmarks/documentation/benchmarks)
+This README provides a quick overview of the Benchmarks package. For more detailed information, please [see the documentation](https://vitali-kurlovich.github.io/swift-benchmarks/documentation/benchmarks)
 
 
 ## Adding dependencies and getting started
@@ -15,7 +15,7 @@ There are just a few steps required to get started benchmarking:
 
 ## The detailed steps:
 ### Step 1: Add a package dependency to the **Package.swift**
-Update your **Package.swift**, add the [Benchmarks](https://github.com/vitali-kurlovich/Benchmarks) and [swift-argument-parser](https://github.com/apple/swift-argument-parser) dependencies to your package:
+Update your **Package.swift**, add the [Benchmarks](https://github.com/vitali-kurlovich/swift-benchmarks) and [swift-argument-parser](https://github.com/apple/swift-argument-parser) dependencies to your package:
 ```swift
  dependencies: [
         .package(url: "https://github.com/vitali-kurlovich/swift-benchmarks", from: "0.3.0"),
@@ -45,6 +45,6 @@ Update your **Package.swift**, add the [Benchmarks](https://github.com/vitali-ku
 
 ## Example
 
-You can find an example of benchmarks in [BenchmarksCLI](https://github.com/vitali-kurlovich/Benchmarks/tree/main/BenchmarksCLI)
+You can find an example of benchmarks in [BenchmarksCLI](https://github.com/vitali-kurlovich/swift-benchmarks/tree/main/BenchmarksCLI)
 
 ![CL](https://vitali-kurlovich.github.io/static-content/benchmarks/benchmarkcl.avif)
