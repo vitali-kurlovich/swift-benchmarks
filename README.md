@@ -15,7 +15,7 @@ There are just a few steps required to get started benchmarking:
 
 ## The detailed steps:
 ### Step 1: Add a package dependency to the **Package.swift**
-Update your **Package.swift**, add the [Benchmarks](https://github.com/vitali-kurlovich/swift-benchmarks) and [swift-argument-parser](https://github.com/apple/swift-argument-parser) dependencies to your package:
+Update your **Package.swift**, add the [swift-benchmarks](https://github.com/vitali-kurlovich/swift-benchmarks) and [swift-argument-parser](https://github.com/apple/swift-argument-parser) dependencies to your package:
 ```swift
  dependencies: [
         .package(url: "https://github.com/vitali-kurlovich/swift-benchmarks", from: "0.3.0"),
