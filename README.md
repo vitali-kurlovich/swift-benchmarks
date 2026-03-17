@@ -1,7 +1,7 @@
-# Benchmarks
+# swift-benchmarks
 
 
-The Benchmarks package lets you easily create simple Swift benchmarks to measure the execution time of your code.
+The swift-benchmarks package lets you easily create simple Swift benchmarks to measure the execution time of your code.
 
 This README provides a quick overview of the Benchmarks package. For more detailed information, please [see the documentation](https://vitali-kurlovich.github.io/swift-benchmarks/documentation/benchmarks)
 
